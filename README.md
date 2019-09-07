@@ -7,3 +7,5 @@ I do believe that this is a interesting and meaningful journey.
 Now, I am learning how to use vscode to manage github repositoryi.
 
 Try again and again.
+
+Today, 2019-09-07
